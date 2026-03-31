@@ -1,10 +1,10 @@
-_**# Keyboard Using Flex**_
+# Keyboard Using Flex
 
-## 🚀 Features
+##  Features
 - Responsive layout
 - Flexbox based design
 
-## 🛠️ Tech Used
+##  Tech Used
 - HTML
 - CSS (Flexbox)
 
